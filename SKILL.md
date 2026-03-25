@@ -1,6 +1,6 @@
 ---
 name: tsinghua-homework-submit
-description: Correctly handle Tsinghua Learn homework workflows: locate the assignment, download the prompt, read the instructions, submit the right file, and verify the result.
+description: "Correctly handle Tsinghua Learn homework workflows: locate the assignment, download the prompt, read the instructions, submit the right file, and verify the result."
 allowed-tools:
   - Bash
   - Read

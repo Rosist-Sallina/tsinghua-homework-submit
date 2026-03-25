@@ -1,6 +1,6 @@
 # Tsinghua Homework Submit
 
-An Alma skill for handling Tsinghua Learn homework workflows safely and repeatably.
+A browser-driven skill for handling Tsinghua Learn homework workflows safely and repeatably.
 
 It is designed for a very specific but common failure mode: when an agent or user is already logged into Tsinghua Learn, needs to inspect an assignment, download the prompt, read the instructions, submit the correct file, and verify the recorded result without mixing up courses or assignments.
 
@@ -96,6 +96,17 @@ So this is best published as a site-specific operational skill, not as a generic
 - add example flows for PDF, ZIP, and text-only submission
 - add an optional verification snippet for extracting attachment names after submission
 - factor out the “safe submission checklist” into a more reusable helper skill later
+
+## License
+
+MIT
+names after submission
+- factor out the “safe submission checklist” into a more reusable helper skill later
+
+## License
+
+MIT
+ skill later
 
 ## License
 
